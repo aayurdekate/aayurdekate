@@ -1,4 +1,4 @@
--  Hi, I’m Ayurdekate
+-  Hi, I’m Ayur Dekate
 -  I’m interested in Programming
 -  I’m currently learning Web Stack
 -  Reach me on Instagram-@aye_yur
