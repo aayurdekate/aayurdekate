@@ -7,7 +7,7 @@ I'm a budding Machine Learning and AI enthusiast, passionate about building mode
 * 🧠 I'm currently learning **Machine Learning** and **Deep Learning** fundamentals.
 * 💻 I'm focused on building a strong portfolio of end-to-end ML projects.
 * 🌱 My goal is to move from "from-scratch" implementations to deploying production-ready models.
-* 📫 How to reach me: `YOUR_EMAIL@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/).
+* 📫 How to reach me: `ayurdekate143@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/ayur.dekate/).
 
 ---
 
@@ -54,37 +54,15 @@ These are the tools and technologies I use to build my models:
 
 ---
 
-### 📊 My GitHub Stats
-
-Here's a look at my activity and top languages. (Note: these stats update automatically!)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="My GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-  </a>
-  <br/>
-  <a href="https://github-readme-streak.herokuapp.com">
-    <img src="https://github-readme-streak.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
-  </a>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayur.dekate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
+ 
   &nbsp;
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:ayurdekate143@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
 </p>
