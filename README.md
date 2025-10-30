@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayur 👋
 
-<img src="" alt="AI Banner" width="100%"/>
+
 
 I'm a budding Machine Learning and AI enthusiast, passionate about building models that solve real-world problems. I'm currently on a journey to master ML concepts from the ground up, one project at a time. My philosophy is "learn by building."
 
