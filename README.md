@@ -7,7 +7,7 @@ I'm a budding Machine Learning and AI enthusiast, passionate about building mode
 * 🧠 I'm currently learning **Machine Learning** and **Deep Learning** fundamentals.
 * 💻 I'm focused on building a strong portfolio of end-to-end ML projects.
 * 🌱 My goal is to move from "from-scratch" implementations to deploying production-ready models.
-* 📫 How to reach me: `ayurdekate143@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/ayur.dekate/).
+* 📫 How to reach me: `ayurdekate143@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/ayur-dekate/).
 
 ---
 
@@ -57,7 +57,7 @@ These are the tools and technologies I use to build my models:
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayur.dekate/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayur-dekate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
  
