@@ -20,7 +20,7 @@ Here are the projects I'm building as part of my accelerated learning path:
     * **Goal:** Predict a Pokémon's `Total` stats from its `Attack` and `Defense`.
     * **Skills:** Gradient Descent, Mean Squared Error, Pandas, Scikit-learn.
 
-2.  **[Project 4: 📱 Customer Churn Predictor](https://github.com/YOUR_USERNAME/customer-churn-predictor)**
+2.  **[Project 2: 📱 Customer Churn Predictor](https://github.com/YOUR_USERNAME/customer-churn-predictor)**
     * **Concept:** Random Forests (Ensemble Learning).
     * **Goal:** Predict which telecom customers are likely to churn.
     * **Skills:** Feature Importance, Ensemble Methods, Real-world business problem.
