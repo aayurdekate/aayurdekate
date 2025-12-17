@@ -20,25 +20,11 @@ Here are the projects I'm building as part of my accelerated learning path:
     * **Goal:** Predict a Pokémon's `Total` stats from its `Attack` and `Defense`.
     * **Skills:** Gradient Descent, Mean Squared Error, Pandas, Scikit-learn.
 
-2.  **[Project 2: 🚢 Titanic Survival Predictor](https://github.com/YOUR_USERNAME/titanic-survival-predictor)**
-    * **Concept:** Logistic Regression (built from scratch).
-    * **Goal:** Predict passenger survival on the Titanic.
-    * **Skills:** Classification, Sigmoid Function, Feature Engineering, Accuracy, Confusion Matrix.
-
-3.  **[Project 3: 🍷 Wine Quality Classifier](https://github.com/YOUR_USERNAME/wine-quality-classifier)**
-    * **Concept:** K-Nearest Neighbors (KNN) & Decision Trees.
-    * **Goal:** Classify wine as "good" or "bad" based on chemical properties.
-    * **Skills:** Non-linear models, Hyperparameter Tuning (`GridSearchCV`).
-
-4.  **[Project 4: 📱 Customer Churn Predictor](https://github.com/YOUR_USERNAME/customer-churn-predictor)**
+2.  **[Project 4: 📱 Customer Churn Predictor](https://github.com/YOUR_USERNAME/customer-churn-predictor)**
     * **Concept:** Random Forests (Ensemble Learning).
     * **Goal:** Predict which telecom customers are likely to churn.
     * **Skills:** Feature Importance, Ensemble Methods, Real-world business problem.
 
-5.  **[Project 5: 🛍️ Mall Customer Segmentation](https://github.com/YOUR_USERNAME/mall-customer-segmentation)**
-    * **Concept:** K-Means Clustering (Unsupervised Learning).
-    * **Goal:** Find hidden groups of customers for targeted marketing.
-    * **Skills:** Unsupervised Learning, Clustering, Data Scaling (`StandardScaler`).
 
 ---
 
